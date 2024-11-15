@@ -1,1 +1,1 @@
-Example Projecy / Playground for learning.
+Example Project / Playground for learning.
